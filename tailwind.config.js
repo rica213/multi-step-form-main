@@ -4,7 +4,11 @@ module.exports = {
     './src/**/*.{html,js}',
   ],
   theme: {
-    extend: {},
+    extend: {
+      backgroundImage: {
+        'hero-pattern': "url('../assets/images/bg-sidebar-mobile.svg')",
+      }
+  }
   },
   plugins: [],
 }
