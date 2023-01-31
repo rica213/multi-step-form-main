@@ -6,7 +6,7 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        'hero-pattern': "url('../assets/images/bg-sidebar-mobile.svg')",
+        'sidebar-mobile': "url('../assets/images/bg-sidebar-mobile.svg')",
       }
   }
   },

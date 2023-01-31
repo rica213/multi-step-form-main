@@ -17728,7 +17728,7 @@ video {
   background-image: linear-gradient(to top left, var(--tw-gradient-stops));
 }
 
-.bg-hero-pattern {
+.bg-sidebar-mobile {
   background-image: url('../assets/images/bg-sidebar-mobile.svg');
 }
 
@@ -48334,7 +48334,7 @@ video {
     background-image: linear-gradient(to top left, var(--tw-gradient-stops));
   }
 
-  .sm\:bg-hero-pattern {
+  .sm\:bg-sidebar-mobile {
     background-image: url('../assets/images/bg-sidebar-mobile.svg');
   }
 
@@ -78588,7 +78588,7 @@ video {
     background-image: linear-gradient(to top left, var(--tw-gradient-stops));
   }
 
-  .md\:bg-hero-pattern {
+  .md\:bg-sidebar-mobile {
     background-image: url('../assets/images/bg-sidebar-mobile.svg');
   }
 
@@ -108842,7 +108842,7 @@ video {
     background-image: linear-gradient(to top left, var(--tw-gradient-stops));
   }
 
-  .lg\:bg-hero-pattern {
+  .lg\:bg-sidebar-mobile {
     background-image: url('../assets/images/bg-sidebar-mobile.svg');
   }
 
@@ -139096,7 +139096,7 @@ video {
     background-image: linear-gradient(to top left, var(--tw-gradient-stops));
   }
 
-  .xl\:bg-hero-pattern {
+  .xl\:bg-sidebar-mobile {
     background-image: url('../assets/images/bg-sidebar-mobile.svg');
   }
 
@@ -169350,7 +169350,7 @@ video {
     background-image: linear-gradient(to top left, var(--tw-gradient-stops));
   }
 
-  .\32xl\:bg-hero-pattern {
+  .\32xl\:bg-sidebar-mobile {
     background-image: url('../assets/images/bg-sidebar-mobile.svg');
   }
 
